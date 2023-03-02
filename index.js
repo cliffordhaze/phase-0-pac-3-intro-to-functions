@@ -11,3 +11,4 @@ sayHelloToLiz();
 function sayHelloToSamip() {
     console.log("Hello, Samip!");
 }
+sayHelloToSamip();
