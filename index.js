@@ -1,6 +1,8 @@
-// Follow along with the examples here
-function doNothing() {}
-function sayHello() {
-    console.log("Hello!");
+function sayHelloToGuadalupe() {
+    console.log("Hello, Guadalupe!");
 }
-sayHello();
+sayHelloToGuadalupe();
+
+function sayHelloToLiz() {
+    console.log("Hello, Liz!");
+}
