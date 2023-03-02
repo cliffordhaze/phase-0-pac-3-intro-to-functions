@@ -6,3 +6,4 @@ sayHelloToGuadalupe();
 function sayHelloToLiz() {
     console.log("Hello, Liz!");
 }
+sayHelloToLiz();
